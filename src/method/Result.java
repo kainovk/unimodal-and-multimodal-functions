@@ -11,6 +11,10 @@ public class Result {
         this.count = count;
     }
 
+    public double getFx() {
+        return fx;
+    }
+
     @Override
     public String toString() {
         return String.format("Найден приближенный экстремум: x = %.3f, f(x) = %.3f за %d итераций",
