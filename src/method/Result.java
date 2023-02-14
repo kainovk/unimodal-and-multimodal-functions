@@ -1,3 +1,5 @@
+package method;
+
 public class Result {
     private final double x;
     private final double fx;

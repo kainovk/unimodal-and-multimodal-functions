@@ -1,3 +1,7 @@
+package method;
+
+import util.Funcs;
+
 import java.util.Scanner;
 import java.util.function.DoubleUnaryOperator;
 
